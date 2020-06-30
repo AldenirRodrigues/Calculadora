@@ -3,4 +3,13 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorCalculatorBackground">#FFFFFF</color>
+    <color name="colorTitleBackground">#D3D3D3</color>
+
+    <color name="colorText">#000000</color>
+    <color name="colorTextLight">#A0A0A0</color>
+
+    <color name="colorImage">@color/colorAccent</color>
+
 </resources>
