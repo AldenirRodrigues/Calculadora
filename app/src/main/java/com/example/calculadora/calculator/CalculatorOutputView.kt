@@ -30,7 +30,7 @@ class CalculatorOutputView(context: Context, attributeSet: AttributeSet?):
     }
     fun solve(){
         CalculatorOutputPresenter.solve()
-//        CalculatorOutputPresenter.calculatorOutcome()
+        CalculatorOutputPresenter.calculatorOutcome()
     }
     fun clear(){
         CalculatorOutputPresenter.clear()
